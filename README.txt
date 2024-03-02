@@ -1,5 +1,5 @@
 Minetest Game mod: Water Splashes
-Adds splash particles upon jumping into water.
+Adds splash particles and sounds upon jumping into water.
 ==========================
 See license.txt for license information.
 
