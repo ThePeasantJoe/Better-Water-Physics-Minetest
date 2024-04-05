@@ -27,9 +27,8 @@ https://opensource.org/licenses/MIT
 
 Licenses of media (textures)
 ----------------------------
-
-Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
-Copyright (C) 2024 ThePeasantJoe https://github.com/ThePeasantJoe
+Licensed under Massachusetts Institute of Technology (MIT) license.
+ThePeasantJoe https://github.com/ThePeasantJoe
 
 Licenses of media (sounds)
 ----------------------------
