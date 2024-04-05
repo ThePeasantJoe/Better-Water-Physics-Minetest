@@ -9,7 +9,7 @@ ThePeasantJoe (MIT) https://github.com/ThePeasantJoe
 
 Author of media (textures)
 ---------------------------
-ThePeasantJoe (CC BY-SA 3.0) 
+ThePeasantJoe (MIT) 
 
 Licenses of media (sounds)
 ----------------------------
